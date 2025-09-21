@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the primary cause of global warming?",
+        "options": ["Greenhouse gases", "Deforestation", "Solar flares", "Volcanoes"],
+        "answer": "Greenhouse gases"
+    },
+    {
+        "question": "Which gas is most responsible for the greenhouse effect?",
+        "options": ["CO2", "O2", "N2", "Methane"],
+        "answer": "CO2"
+    },
+    {
+        "question": "Which of the following is a renewable energy source?",
+        "options": ["Coal", "Wind", "Oil", "Natural Gas"],
+        "answer": "Wind"
+    }
+]
